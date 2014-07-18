@@ -1,0 +1,22 @@
+{
+    "name": "arh/stripe",
+    "license": "MIT",
+    "description": "Extension for Laravel Cashier",
+    "authors": [
+        {
+            "name": "Andreas Haßler",
+            "email": "andreasroman@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "laravel/cashier": "~2"
+    },
+    "autoload": {
+        "psr-0": {
+            "Arh\\Stripe\\": "src/"
+        }
+    },
+    "target-dir": "Arh/Stripe",
+    "minimum-stability": "stable"
+}
