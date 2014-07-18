@@ -17,5 +17,6 @@
             "Arh\\Stripe\\": "src/"
         }
     },
+    "target-dir": "Arh/Stripe",
     "minimum-stability": "stable"
 }
