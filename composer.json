@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Arh\\Stripe\\": "src/"
+            "Arh\\Stripe\\": ""
         }
     },
     "target-dir": "Arh/Stripe",
